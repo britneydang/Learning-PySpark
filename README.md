@@ -8,11 +8,13 @@ Set up:
 - Pyspark 3.2.1
 - Hadoop (winutils 3.2.1)
 - Environment variables (JAVA_HOME, HADOOP_HOME, paths...)
-- (use cmd)
+- (And use cmd to navigate)
 
-In this project, I:
-- learn how to set up my own local PySpark environment
+![image](https://github.com/britneydang/Learning-PySpark/assets/110323703/3ead39bb-1752-4b91-8407-88a5d7759f56)
+
+In this project, I learn:
+- how to set up my own local PySpark environment
 ![image](https://github.com/britneydang/Learning-PySpark/assets/110323703/6fbc315c-e66e-4a3e-8bc0-80ba5f4a6c0b)
-- learn the Spark Architecture and Spark execution concepts
-- learn the RDD (Resilient Distributed Datasets): include RDD Transformations and RDD Actiond
-- learn the Spark DataFrame
+- the Spark Architecture and Spark execution concepts
+- the RDD (Resilient Distributed Datasets): include RDD Transformations and RDD Actiond
+- the Spark DataFrame
